@@ -1,0 +1,67 @@
+[
+    {
+        "Sequence Number": "1",
+        "Account": "1581287257",
+        "Posting Date": "27/03/2023",
+        "Transaction Date": "25/03/2023",
+        "Statement Description": "Online Purchase: Bolt Bryanston (Card 4104)",
+        "Long Description": "Bolt                   BRYANSTON    ZAZA",
+        "Parent Category": "Transport",
+        "Sub-category": "Public Transport",
+        "Debit Amount": "39.00",
+        "Credit Amount": "",
+        "Balance": "17193.29"
+    },
+    {
+        "Sequence Number": "2",
+        "Account": "1581287257",
+        "Posting Date": "27/03/2023",
+        "Transaction Date": "25/03/2023",
+        "Statement Description": "Online Purchase: Bolt Bryanston (Card 4104)",
+        "Long Description": "Bolt                   BRYANSTON    ZAZA",
+        "Parent Category": "Transport",
+        "Sub-category": "Public Transport",
+        "Debit Amount": "35.00",
+        "Credit Amount": "",
+        "Balance": "17158.29"
+    },
+    {
+        "Sequence Number": "3",
+        "Account": "1581287257",
+        "Posting Date": "27/03/2023",
+        "Transaction Date": "25/03/2023",
+        "Statement Description": "Ik *mono 2020 Pretoria (Card 4104)",
+        "Long Description": "iK *MONO 2020          Pretoria     ZAZA",
+        "Parent Category": "Food",
+        "Sub-category": "Groceries",
+        "Debit Amount": "26.00",
+        "Credit Amount": "",
+        "Balance": "17132.29"
+    },
+    {
+        "Sequence Number": "4",
+        "Account": "1581287257",
+        "Posting Date": "27/03/2023",
+        "Transaction Date": "27/03/2023",
+        "Statement Description": "Banking App Prepaid Purchase Electricity",
+        "Long Description": "ELECTRICITY",
+        "Parent Category": "Household",
+        "Sub-category": "Electricity",
+        "Debit Amount": "224.00",
+        "Credit Amount": "",
+        "Balance": "16908.29"
+    },
+    {
+        "Sequence Number": "5",
+        "Account": "1581287257",
+        "Posting Date": "27/03/2023",
+        "Transaction Date": "27/03/2023",
+        "Statement Description": "Prepaid Electricity Purchase Fee",
+        "Long Description": "",
+        "Parent Category": "Fees",
+        "Sub-category": "Fees",
+        "Debit Amount": "0.50",
+        "Credit Amount": "",
+        "Balance": "16907.79"
+    }
+]

@@ -1,0 +1,32 @@
+POST http://localhost:5500/add-category
+Content-Type:application/json
+
+{
+    "categoryName": "Family",
+    "amount": 2000
+}
+
+###
+
+GET http://localhost:5500/transactions
+Content-Type:application/json
+###
+
+PUT http://localhost:5500/select-category/645a0f1bb3e4c78f90308fd7/update-category/6457c18e2900188e245b4108
+Content-Type:application/json
+
+###
+
+GET http://localhost:5500/categories
+Content-Type:application/json
+
+###
+
+DELETE http://localhost:5500/delete-category/6457c1c22900188e245b410e
+Content-Type:application/json
+
+###
+
+
+GET http://localhost:5500/select-category/6457c1de2900188e245b4113/category/6457c19f2900188e245b410a
+Content-Type:application/json

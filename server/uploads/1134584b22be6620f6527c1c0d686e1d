@@ -1,0 +1,149 @@
+sep=,
+Sequence Number,Account,Posting Date,Transaction Date,Statement Description,Long Description,Parent Category,Sub-category,Debit Amount,Credit Amount,Balance
+1,1581287257,27/03/2023,25/03/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    ZAZA","Transport","Public Transport",39.00,,17193.29
+2,1581287257,27/03/2023,25/03/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    ZAZA","Transport","Public Transport",35.00,,17158.29
+3,1581287257,27/03/2023,25/03/2023,"Ik *mono 2020 Pretoria (Card 4104)","iK *MONO 2020          Pretoria     ZAZA","Food","Groceries",26.00,,17132.29
+4,1581287257,27/03/2023,27/03/2023,"Banking App Prepaid Purchase Electricity","ELECTRICITY","Household","Electricity",224.00,,16908.29
+5,1581287257,27/03/2023,27/03/2023,"Prepaid Electricity Purchase Fee","","Fees","Fees",0.50,,16907.79
+6,1581287257,27/03/2023,27/03/2023,"SMS Notification Fee: 4 notification(s)","","Fees","Fees",1.20,,16906.59
+7,1581287257,28/03/2023,28/03/2023,"Banking App Payment Nobesuthu","NOBESUTHU","Uncategorised","Uncategorised",250.00,,16656.59
+8,1581287257,28/03/2023,28/03/2023,"Payment Fee","","Fees","Fees",1.00,,16655.59
+9,1581287257,28/03/2023,28/03/2023,"SMS Notification Fee: 6 notification(s)","","Fees","Fees",1.50,,16654.09
+10,1581287257,29/03/2023,25/03/2023,"Gautrain Gauteng (Card 4104)","Gautrain CTLS Local    GAUTENG        ZA","Transport","Public Transport",93.00,,16561.09
+11,1581287257,29/03/2023,25/03/2023,"Gautrain Gauteng (Card 4104)","Gautrain CTLS Local    GAUTENG        ZA","Transport","Public Transport",93.00,,16468.09
+12,1581287257,29/03/2023,25/03/2023,"Online Purchase: Vodacom Midrand (Card 4104)","Vodacom App CBU        MIDRAND        ZA","Communication","Cellphone",12.00,,16456.09
+13,1581287257,29/03/2023,26/03/2023,"Chicken Licken Johannesburg (Card 4104)","CHICKEN LICKEN JEWEL C JOHANNESBURG   ZA","Food","Takeaways",80.00,,16376.09
+14,1581287257,29/03/2023,27/03/2023,"Rohobot Super Market Jeppestown (Card 4104)","ROHOBOT SUPER MARKET   Jeppestown     ZA","Food","Groceries",65.00,,16311.09
+15,1581287257,29/03/2023,29/03/2023,"Payment Received: Absa Bank Sne                 Transfer  0929504983","ABSA BANK Sne                 TRANSFER  0929504983","Other Income","Other Income",,900.00,17211.09
+16,1581287257,29/03/2023,29/03/2023,"SMS Notification Fee: 3 notification(s)","","Fees","Fees",0.90,,17210.19
+17,1581287257,30/03/2023,25/03/2023,"Online Purchase: Uber Eats Jhb (Card 4104)","Uber Eats              JHB            ZA","Food","Takeaways",108.90,,17101.29
+18,1581287257,30/03/2023,27/03/2023,"Online Purchase: Vodacom Midrand (Card 4104)","Vodacom App CBU        MIDRAND        ZA","Communication","Cellphone",5.00,,17096.29
+19,1581287257,30/03/2023,27/03/2023,"Cash Crusaders Johannesburg (Card 4104)","CASH CRUSADERS CARLT   JOHANNESBURG   ZA","Entertainment","Software/Games",799.90,,16296.39
+20,1581287257,30/03/2023,27/03/2023,"Online Purchase: BT Games Johannesburg (Card 4104)","BT GAMES WEBSITE       JOHANNESBURG   ZA","Entertainment","Software/Games",899.00,,15397.39
+21,1581287257,30/03/2023,28/03/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    ZAZA","Transport","Public Transport",34.00,,15363.39
+22,1581287257,30/03/2023,28/03/2023,"Pick n Pay Johannesburg (Card 4104)","PnP Crp Carlton Centre JOHANNESBURG ZAZA","Food","Groceries",241.69,,15121.70
+23,1581287257,30/03/2023,28/03/2023,"Pick n Pay Johannesburg (Card 4104)","PnP Crp Carlton Centre JOHANNESBURG ZAZA","Food","Groceries",141.76,,14979.94
+24,1581287257,30/03/2023,28/03/2023,"Woolworths Johannesburg (Card 4104)","WOOLWORTHS             JOHANNESBURG ZAZA","Food","Groceries",131.47,,14848.47
+25,1581287257,30/03/2023,30/03/2023,"SMS Notification Fee: 1 notification(s)","","Fees","Fees",0.30,,14848.17
+26,1581287257,31/03/2023,29/03/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    ZAZA","Transport","Public Transport",31.00,,14817.17
+27,1581287257,31/03/2023,31/03/2023,"Interest Received","","Interest","Interest",,16.46,14833.63
+28,1581287257,31/03/2023,31/03/2023,"SMS Notification Fee: 2 notification(s)","","Fees","Fees",0.60,,14833.03
+29,1581287257,31/03/2023,31/03/2023,"Monthly Account Admin Fee","","Fees","Fees",7.00,,14826.03
+30,1581287257,01/04/2023,29/03/2023,"Card Purchase & Cashback (R100.00) Shoprite Ferndale (Card 4104)","Shoprite Maboneng      FERNDALE       ZA","Food","Groceries",243.04,,14582.99
+31,1581287257,01/04/2023,29/03/2023,"Till Cash Withdrawal Fee","Shoprite Maboneng      SB085745       ZA|PCB_POS_PURCH_CASHBACK","Fees","Fees",1.75,,14581.24
+32,1581287257,01/04/2023,01/04/2023,"Recurring Payment (14423868): Mom","Mom                      |S/O 14423868","Personal & Family","Children & Dependants",1750.00,,12831.24
+33,1581287257,01/04/2023,01/04/2023,"Banking App Recurring Payment Fee","","Fees","Fees",2.00,,12829.24
+34,1581287257,01/04/2023,01/04/2023,"Eft Debit Order (0942360147): Pm8+propf2 (TLL863U)","PM8+PROPF2TLL863U       230401TRANSFER  0942360147","Uncategorised","Uncategorised",5115.35,,7713.89
+35,1581287257,01/04/2023,01/04/2023,"Debit Order Fee","","Fees","Fees",3.50,,7710.39
+36,1581287257,01/04/2023,01/04/2023,"SMS Notification Fee: 7 notification(s)","","Fees","Fees",1.80,,7708.59
+37,1581287257,02/04/2023,01/04/2023,"Banking App Payment Samkelisiwe","SAMKELISIWE","Uncategorised","Uncategorised",50.00,,7658.59
+38,1581287257,02/04/2023,01/04/2023,"Payment Fee","","Fees","Fees",1.00,,7657.59
+39,1581287257,02/04/2023,30/03/2023,"Roots Johannesburg (Card 4104)","ROOTS JEWEL CITY_ LEGE JOHANNESBURG   ZA","Food","Groceries",237.70,,7419.89
+40,1581287257,02/04/2023,31/03/2023,"Rohobot Super Market Jeppestown (Card 4104)","ROHOBOT SUPER MARKET   Jeppestown     ZA","Food","Groceries",21.00,,7398.89
+41,1581287257,02/04/2023,31/03/2023,"Yoco *carlton Digita Johannesburg (Card 4104)","Yoco   *Carlton digita Johannesburg ZAZA","Personal & Family","Children & Dependants",180.00,,7218.89
+42,1581287257,02/04/2023,31/03/2023,"Spur Johannesburg (Card 4104)","FALCON ARROW SPUR      Johannesburg   ZA","Food","Restaurants",194.90,,7023.99
+43,1581287257,02/04/2023,02/04/2023,"Banking App Payment Mr Marothi","MR MAROTHI","Uncategorised","Uncategorised",900.00,,6123.99
+44,1581287257,02/04/2023,02/04/2023,"Payment Fee","","Fees","Fees",1.00,,6122.99
+45,1581287257,02/04/2023,02/04/2023,"SMS Notification Fee: 3 notification(s)","","Fees","Fees",0.90,,6122.09
+46,1581287257,03/04/2023,03/04/2023,"SMS Notification Fee: 1 notification(s)","","Fees","Fees",0.30,,6121.79
+47,1581287257,04/04/2023,02/04/2023,"Rohobot Super Market Jeppestown (Card 4104)","ROHOBOT SUPER MARKET   Jeppestown     ZA","Food","Groceries",58.00,,6063.79
+48,1581287257,04/04/2023,04/04/2023,"Banking App Payment Merry","MERRY","Uncategorised","Uncategorised",130.00,,5933.79
+49,1581287257,04/04/2023,04/04/2023,"Payment Fee","","Fees","Fees",1.00,,5932.79
+50,1581287257,04/04/2023,04/04/2023,"SMS Notification Fee: 3 notification(s)","","Fees","Fees",0.90,,5931.89
+51,1581287257,05/04/2023,04/04/2023,"Banking App Immediate Payment (RTC): Mom","MOM","Personal & Family","Children & Dependants",300.00,,5631.89
+52,1581287257,05/04/2023,04/04/2023,"Immediate Payment Fee (RTC)","","Fees","Fees",7.50,,5624.39
+53,1581287257,05/04/2023,04/04/2023,"Banking App Payment Merry","MERRY","Uncategorised","Uncategorised",80.00,,5544.39
+54,1581287257,05/04/2023,04/04/2023,"Payment Fee","","Fees","Fees",1.00,,5543.39
+55,1581287257,05/04/2023,01/04/2023,"Recurring Card Purchase: Rain Bryanston (Card 4104)","Rain                   BRYANSTON      ZA","Communication","Cellphone",415.64,,5127.75
+56,1581287257,05/04/2023,03/04/2023,"Mochachos Johannesburg (Card 4104)","MOCHACHOS GHANDI SQUAR JOHANNESBURG ZAZA","Food","Takeaways",119.80,,5007.95
+57,1581287257,05/04/2023,01/04/2023,"Discount Liquors Carlt Johannesburg (Card 4104)","DISCOUNT LIQUORS CARLT JOHANNESBURG ZAZA","Entertainment","Alcohol",155.70,,4852.25
+58,1581287257,05/04/2023,01/04/2023,"KFC Johannesburg (Card 4104)","KFC CARLTON CENTRE POS JOHANNESBURG   ZA","Food","Takeaways",80.80,,4771.45
+59,1581287257,05/04/2023,03/04/2023,"Rohobot Super Market Jeppestown (Card 4104)","ROHOBOT SUPER MARKET   Jeppestown     ZA","Food","Groceries",19.00,,4752.45
+60,1581287257,05/04/2023,05/04/2023,"SMS Notification Fee: 4 notification(s)","","Fees","Fees",1.20,,4751.25
+61,1581287257,06/04/2023,01/04/2023,"Online Purchase: Uber Eats Jhb (Card 4104)","Uber Eats              JHB            ZA","Food","Takeaways",118.41,,4632.84
+62,1581287257,06/04/2023,04/04/2023,"Rohobot Super Market Jeppestown (Card 4104)","ROHOBOT SUPER MARKET   Jeppestown     ZA","Food","Groceries",19.00,,4613.84
+63,1581287257,06/04/2023,03/04/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    ZAZA","Transport","Public Transport",38.00,,4575.84
+64,1581287257,06/04/2023,04/04/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    ZAZA","Transport","Public Transport",43.00,,4532.84
+65,1581287257,06/04/2023,06/04/2023,"SMS Notification Fee: 2 notification(s)","","Fees","Fees",0.60,,4532.24
+66,1581287257,07/04/2023,04/04/2023,"Online Purchase: Vodacom Midrand (Card 4104)","Vodacom App CBU        MIDRAND        ZA","Communication","Cellphone",5.00,,4527.24
+67,1581287257,07/04/2023,04/04/2023,"Online Purchase: Vodacom Midrand (Card 4104)","Vodacom App CBU        MIDRAND        ZA","Communication","Cellphone",5.00,,4522.24
+68,1581287257,07/04/2023,05/04/2023,"Pick n Pay Johannesburg (Card 4104)","PnP Crp Carlton Centre JOHANNESBURG ZAZA","Food","Groceries",163.03,,4359.21
+69,1581287257,07/04/2023,07/04/2023,"SMS Notification Fee: 1 notification(s)","","Fees","Fees",0.30,,4358.91
+70,1581287257,08/04/2023,06/04/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    ZAZA","Transport","Public Transport",31.00,,4327.91
+71,1581287257,08/04/2023,05/04/2023,"Roots Johannesburg (Card 4104)","ROOTS JEWEL CITY_ LEGE JOHANNESBURG   ZA","Food","Groceries",269.50,,4058.41
+72,1581287257,08/04/2023,06/04/2023,"Pick n Pay Johannesburg (Card 4104)","PnP Crp Carlton Centre JOHANNESBURG ZAZA","Food","Groceries",157.10,,3901.31
+73,1581287257,08/04/2023,08/04/2023,"SMS Notification Fee: 2 notification(s)","","Fees","Fees",0.60,,3900.71
+74,1581287257,09/04/2023,07/04/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    ZAZA","Transport","Public Transport",39.00,,3861.71
+75,1581287257,09/04/2023,09/04/2023,"ATM Cash Withdrawal: Absa Atm On Wheels 12  Bloemfontein Fsza","ABSA ATM ON WHEELS 12  BLOEMFONTEIN FSZA","Cash","Cash Withdrawal",300.00,,3561.71
+76,1581287257,09/04/2023,09/04/2023,"ATM Cash Withdrawal Fee","","Fees","Fees",10.50,,3551.21
+77,1581287257,09/04/2023,09/04/2023,"SMS Notification Fee: 3 notification(s)","","Fees","Fees",0.90,,3550.31
+78,1581287257,10/04/2023,08/04/2023,"Pep Stores Johannesburg (Card 4104)","PEP 8727 Carltonville  JOHANNESBURG ZAZA","Personal & Family","Clothing & Shoes",256.95,,3293.36
+79,1581287257,10/04/2023,08/04/2023,"Rohobot Super Market Jeppestown (Card 4104)","ROHOBOT SUPER MARKET   Jeppestown     ZA","Food","Groceries",43.00,,3250.36
+80,1581287257,10/04/2023,10/04/2023,"Banking App Prepaid Purchase Vodacom","VODACOM","Communication","Cellphone",12.00,,3238.36
+81,1581287257,10/04/2023,10/04/2023,"Prepaid Mobile Purchase Fee","","Fees","Fees",0.50,,3237.86
+82,1581287257,10/04/2023,10/04/2023,"SMS Notification Fee: 6 notification(s)","","Fees","Fees",1.50,,3236.36
+83,1581287257,11/04/2023,09/04/2023,"Main Event Catering Johannesburg (Card 4104)","MAIN EVENT CATERING    JOHANNESBURG ZAZA","Food","Takeaways",100.00,,3136.36
+84,1581287257,11/04/2023,09/04/2023,"Howler Johannesburg (Card 4104)","HOWLER                 Johannesburg   ZA","Entertainment","Other Entertainment",95.00,,3041.36
+85,1581287257,12/04/2023,10/04/2023,"Ikh*ultimate Digital M Johannesburg (Card 4104)","IKH*Ultimate Digital M JOHANNESBURG ZAZA","Loans & Accounts","Other Loans & Accounts",200.00,,2841.36
+86,1581287257,12/04/2023,12/04/2023,"SMS Notification Fee: 1 notification(s)","","Fees","Fees",0.30,,2841.06
+87,1581287257,13/04/2023,10/04/2023,"Online Purchase: Uber Johannesburg (Card 4104)","UBER SA help.uber.com  JOHANNESBURG ZAZA","Transport","Public Transport",59.00,,2782.06
+88,1581287257,13/04/2023,10/04/2023,"Mochachos Johannesburg (Card 4104)","MOCHACHOS GHANDI SQUAR JOHANNESBURG ZAZA","Food","Takeaways",59.90,,2722.16
+89,1581287257,13/04/2023,13/04/2023,"Correction: SMS Notification Fee","","Fees","Fees",,0.30,2722.46
+90,1581287257,13/04/2023,13/04/2023,"SMS Notification Fee: 6 notification(s)","","Fees","Fees",1.50,,2720.96
+91,1581287257,14/04/2023,12/04/2023,"Meatos Grill Pty Ltd Jeppestown (Card 4104)","MEATOS GRILL PTY LTD   Jeppestown     ZA","Food","Restaurants",60.00,,2660.96
+92,1581287257,14/04/2023,11/04/2023,"Online Purchase: Vodacom Midrand (Card 4104)","Vodacom App CBU        MIDRAND        ZA","Communication","Cellphone",12.00,,2648.96
+93,1581287257,14/04/2023,14/04/2023,"ATM Cash Withdrawal: Absa Maboneng Precint  Johannesburg Gtza","ABSA MABONENG PRECINT  JOHANNESBURG GTZA","Cash","Cash Withdrawal",300.00,,2348.96
+94,1581287257,14/04/2023,14/04/2023,"ATM Cash Withdrawal Fee","","Fees","Fees",10.50,,2338.46
+95,1581287257,14/04/2023,14/04/2023,"Correction: SMS Notification Fee","","Fees","Fees",,0.30,2338.76
+96,1581287257,14/04/2023,14/04/2023,"SMS Notification Fee: 6 notification(s)","","Fees","Fees",1.50,,2337.26
+97,1581287257,15/04/2023,13/04/2023,"Meatos Grill Pty Ltd Jeppestown (Card 4104)","MEATOS GRILL PTY LTD   Jeppestown     ZA","Food","Restaurants",120.00,,2217.26
+98,1581287257,15/04/2023,10/04/2023,"Online Purchase: Uber Eats Jhb (Card 4104)","Uber Eats              JHB            ZA","Food","Takeaways",84.70,,2132.56
+99,1581287257,15/04/2023,10/04/2023,"Online Purchase: Uber Jhb (Card 4104)","Uber Rides             JHB            ZA","Transport","Public Transport",56.00,,2076.56
+100,1581287257,15/04/2023,12/04/2023,"Online Purchase: Vodacom Midrand (Card 4104)","Vodacom App CBU        MIDRAND        ZA","Communication","Cellphone",12.00,,2064.56
+101,1581287257,15/04/2023,13/04/2023,"Online Purchase: Uber Johannesburg (Card 4104)","UBER SA help.uber.com  JOHANNESBURG ZAZA","Transport","Public Transport",50.00,,2014.56
+102,1581287257,15/04/2023,13/04/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    ZAZA","Transport","Public Transport",30.00,,1984.56
+103,1581287257,15/04/2023,15/04/2023,"SMS Notification Fee: 2 notification(s)","","Fees","Fees",0.60,,1983.96
+104,1581287257,16/04/2023,14/04/2023,"Rohobot Super Market Jeppestown (Card 4104)","ROHOBOT SUPER MARKET   Jeppestown     ZA","Food","Groceries",32.00,,1951.96
+105,1581287257,16/04/2023,14/04/2023,"Online Purchase: Uber Johannesburg (Card 4104)","UBER SA help.uber.com  JOHANNESBURG ZAZA","Transport","Public Transport",63.00,,1888.96
+106,1581287257,16/04/2023,14/04/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    ZAZA","Transport","Public Transport",32.00,,1856.96
+107,1581287257,17/04/2023,14/04/2023,"Online Purchase: Vodacom Midrand (Card 4104)","Vodacom App CBU        MIDRAND        ZA","Communication","Cellphone",5.00,,1851.96
+108,1581287257,17/04/2023,14/04/2023,"Khona Kitchen And Bar Johannesburg (Card 4104)","Khona Kitchen and Bar  JOHANNESBURG   ZA","Entertainment","Alcohol",53.00,,1798.96
+109,1581287257,17/04/2023,17/04/2023,"SMS Notification Fee: 3 notification(s)","","Fees","Fees",0.90,,1798.06
+110,1581287257,18/04/2023,16/04/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    WCZA","Transport","Public Transport",27.00,,1771.06
+111,1581287257,18/04/2023,15/04/2023,"Spur Johannesburg (Card 4104)","FALCON ARROW SPUR      Johannesburg   ZA","Food","Restaurants",260.00,,1511.06
+112,1581287257,18/04/2023,15/04/2023,"Kings Liquor Johannesburg (Card 4104)","KINGS LIQUOR           Johannesburg   ZA","Entertainment","Alcohol",32.40,,1478.66
+113,1581287257,18/04/2023,18/04/2023,"Correction: SMS Notification Fee","","Fees","Fees",,0.30,1478.96
+114,1581287257,18/04/2023,18/04/2023,"SMS Notification Fee: 2 notification(s)","","Fees","Fees",0.60,,1478.36
+115,1581287257,19/04/2023,16/04/2023,"Online Purchase: Vodacom Midrand (Card 4104)","Vodacom App CBU        MIDRAND        ZA","Communication","Cellphone",5.00,,1473.36
+116,1581287257,19/04/2023,17/04/2023,"Online Purchase: Bolt Bryanston (Card 4104)","Bolt                   BRYANSTON    WCZA","Transport","Public Transport",74.00,,1399.36
+117,1581287257,19/04/2023,16/04/2023,"Online Purchase: Shein Cr Cape Town (Card 4104)","Shein CR               CAPE TOWN      ZA","Personal & Family","Clothing & Shoes",950.00,,449.36
+118,1581287257,19/04/2023,19/04/2023,"Purchase Refund: Shein Cr Cape Town (Card 4104)","Shein CR","Other Income","Other Income",,950.00,1399.36
+119,1581287257,19/04/2023,19/04/2023,"SMS Notification Fee: 3 notification(s)","","Fees","Fees",0.90,,1398.46
+120,1581287257,20/04/2023,18/04/2023,"Mochachos Johannesburg (Card 4104)","MOCHACHOS GHANDI SQUAR JOHANNESBURG ZAZA","Food","Takeaways",59.90,,1338.56
+121,1581287257,20/04/2023,18/04/2023,"Spar Boksburg (Card 4104)","Spar Ghandi            Boksburg       ZA","Food","Groceries",26.99,,1311.57
+122,1581287257,20/04/2023,18/04/2023,"Rohobot Super Market Jeppestown (Card 4104)","ROHOBOT SUPER MARKET   Jeppestown     ZA","Food","Groceries",25.00,,1286.57
+123,1581287257,20/04/2023,20/04/2023,"SMS Notification Fee: 2 notification(s)","","Fees","Fees",0.60,,1285.97
+124,1581287257,21/04/2023,18/04/2023,"Online Purchase: Vodacom Midrand (Card 4104)","Vodacom App CBU        MIDRAND        ZA","Communication","Cellphone",5.00,,1280.97
+125,1581287257,21/04/2023,19/04/2023,"Mkhaya Foods Marshalltown (Card 4104)","MKHAYA FOODS           Marshalltown   ZA","Food","Groceries",109.00,,1171.97
+126,1581287257,21/04/2023,21/04/2023,"SMS Notification Fee: 2 notification(s)","","Fees","Fees",0.60,,1171.37
+127,1581287257,22/04/2023,18/04/2023,"Online Purchase: Uber Jhb (Card 4104)","Uber Rides             JHB            ZA","Transport","Public Transport",105.00,,1066.37
+128,1581287257,22/04/2023,19/04/2023,"Roots Johannesburg (Card 4104)","ROOTS JEWEL CITY_ LEGE JOHANNESBURG   ZA","Food","Groceries",196.00,,870.37
+129,1581287257,22/04/2023,22/04/2023,"ATM Cash Withdrawal: Fnb Ssc Atm            Johannesburg Gpza","FNB SSC ATM            Johannesburg GPZA","Cash","Cash Withdrawal",250.00,,620.37
+130,1581287257,22/04/2023,22/04/2023,"ATM Cash Withdrawal Fee","","Fees","Fees",10.50,,609.87
+131,1581287257,22/04/2023,22/04/2023,"SMS Notification Fee: 1 notification(s)","","Fees","Fees",0.30,,609.57
+132,1581287257,23/04/2023,21/04/2023,"Online Purchase: Uber Johannesburg (Card 4104)","UBER SA help.uber.com  JOHANNESBURG GTZA","Transport","Public Transport",72.00,,537.57
+133,1581287257,23/04/2023,20/04/2023,"Online Purchase: Uber Johannesburg (Card 4104)","UBER SA help.uber.com  JOHANNESBURG GTZA","Transport","Public Transport",80.00,,457.57
+134,1581287257,24/04/2023,22/04/2023,"Rohobot Super Market Jeppestown (Card 4104)","ROHOBOT SUPER MARKET   Jeppestown     ZA","Food","Groceries",24.00,,433.57
+135,1581287257,24/04/2023,24/04/2023,"Banking App Transfer Received from Step One (2012430852) Transfer","Transfer","Transfer","Transfer",,50.00,483.57
+136,1581287257,24/04/2023,24/04/2023,"SMS Notification Fee: 3 notification(s)","","Fees","Fees",0.90,,482.67
+137,1581287257,25/04/2023,25/04/2023,"Payment Received: Netcash072salary              Salary    0974219536","NETCASH072SALARY              SALARY    0974219536","Salary","Salary",,27609.04,28091.71
+138,1581287257,25/04/2023,20/04/2023,"Recurring Card Purchase: Steam Seattle (Card 4104)","STEAM PURCHASE         SEATTLE      HHDE","Personal & Family","Online Store",300.00,,27791.71
+139,1581287257,25/04/2023,20/04/2023,"International Processing Recurring Card Purchase Fee: Steam Purchase","Steam Purchase         425-952-2985   DE|REC_RECURRING_TXN","Fees","Fees",2.00,,27789.71
+140,1581287257,25/04/2023,25/04/2023,"Banking App Immediate Payment (RTC): N Maseko","N MASEKO","Uncategorised","Uncategorised",13500.00,,14289.71
+141,1581287257,25/04/2023,25/04/2023,"Immediate Payment Fee (RTC)","","Fees","Fees",7.50,,14282.21
+142,1581287257,25/04/2023,25/04/2023,"Banking App Prepaid Purchase Vodacom","VODACOM","Communication","Cellphone",12.00,,14270.21
+143,1581287257,25/04/2023,25/04/2023,"Prepaid Mobile Purchase Fee","","Fees","Fees",0.50,,14269.71
+144,1581287257,25/04/2023,25/04/2023,"SMS Notification Fee: 4 notification(s)","","Fees","Fees",1.20,,14268.51
+145,1581287257,26/04/2023,25/04/2023,"Prepaid Purchase ELECTRICITY","ELECTRICITY","Communication","Cellphone",250.00,,14018.51
+146,1581287257,26/04/2023,25/04/2023,"Prepaid Electricity Purchase Fee","","Fees","Fees",0.50,,14018.01
+147,1581287257,26/04/2023,20/04/2023,"Online Purchase: Uber Jhb (Card 4104)","Uber Rides             JHB            ZA","Transport","Public Transport",75.00,,13943.01

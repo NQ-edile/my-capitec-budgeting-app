@@ -1,0 +1,6 @@
+Sequence Number;Account;Posting Date;Transaction Date;Statement Description;Long Description;Parent Category;Sub-category;Debit Amount;Credit Amount;Balance
+1;1581287257;27/03/2023;25/03/2023;Online Purchase: Bolt Bryanston (Card 4104);Bolt                   BRYANSTON    ZAZA;Transport;Public Transport;39.00;;17193.29
+2;1581287257;27/03/2023;25/03/2023;Online Purchase: Bolt Bryanston (Card 4104);Bolt                   BRYANSTON    ZAZA;Transport;Public Transport;35.00;;17158.29
+3;1581287257;27/03/2023;25/03/2023;Ik *mono 2020 Pretoria (Card 4104);iK *MONO 2020          Pretoria     ZAZA;Food;Groceries;26.00;;17132.29
+4;1581287257;27/03/2023;27/03/2023;Banking App Prepaid Purchase Electricity;ELECTRICITY;Household;Electricity;224.00;;16908.29
+5;1581287257;27/03/2023;27/03/2023;Prepaid Electricity Purchase Fee;;Fees;Fees;0.50;;16907.79
